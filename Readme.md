@@ -24,10 +24,29 @@
                      El codigo EDA de estos datasets se puede encontrar en el archivo llamado 'Analytics_PI_02.ipynb'
 ### los archivos **report1.html** y **report2.html** son reportes de profiling donde en el reporte 1 se encuentra un reporte general de los datos de los 3 primeros datasets y el report 2 se encuentra un reporte general de los 3 ultimos datasets
 
-# Paso 2: Creamos un dashboard:
+# Paso 2: Creamos un dashboard en Power BI:
 ## Plateamos objetivos, hacemos preguntas y sacamos conclusiones
-## Visualizamos metricas y los datos 
+## **Objetivos:**
+### Aumentar el acceso a internet
+### Mejorar la calidad del servicio de internet
+### Expandir la cobertura geografica
+## **Preguntas:**
+### ¿El acceso a internet en los hogares  viene aumentando por año?
+### ¿Cuales son las zonas con menos usuarios con acceso a internet?
+### ¿Que tecnologia aporta mejor calidad de servicio a nuestros clientes?
+### ¿A que lugares(provincias) podemos expandirnos para atraer nuevos clientes?
+## **Clonclusiones:**
+### Zonas como santa cruz y san juan  son zonas  con un internet de baja calidad, se puede mejorar para atraer nuevos clientes dependiendo del costo. Podemos ver que el acceso a internet por hogares se mantuvo creciente del 2014 hasta 2021 luego cayo. Los ingresos son crecientes desde el año 2014 hasta 2022 y se mantiene de forma creciente. Se puede ver que con tecnologia fibra optica esta teniendo  una tendencia creciente continua mientras cable modem se mantenia continua pero esta bajando su tendencia.
 
-                      El dashboard de power bi lo pueden ver en este archivo 'ANALISIS_INTERNET.pbix'
+## Visualizamos metricas y los datos con:
+### Graficos de barras laterales
+### Grafico de lineas
+### Kpis
+### Grafico de lineas-zona
+### Tablas
+### Etiquetas
+### Mapa geo 
+
+                      El dashboard de Power BI lo pueden ver en este archivo 'ANALISIS_INTERNET.pbix'
 
 
