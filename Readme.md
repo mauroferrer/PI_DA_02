@@ -16,7 +16,7 @@
 # Paso 1: Hacemos un Analisis EDA de los datasets:
 ### **Internet_penetracion:** Indica el acceso a internet por cada 100 hogares
 ### **BAF:** Muestra 2 tipos de tecnologias que son Banda ancha fija y Dial up
-### **Ingresos:** Nos muestra la cantidad de dinero generada por las tecnologias de acceso a internet  
+### **Ingresos:** Nos muestra la cantidad de dinero generado por las tecnologias de acceso a internet  
 ### **Internet_accesos_por_velocidad:** Indica la cantidad-tipos de velocidades por provincias
 ### **Internet_acceso_por_tecnologia:** Nos muestra los tipos de tecnologias que hay ej: Fibra optica,cable modem, etc
 ### **Velocidad_internet:** Nos muestra el promedio de Mbps(media de bajada) por provincias
